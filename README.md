@@ -3,7 +3,7 @@ Hi! This is a personal note from Beora
 
 Before I get into anything, thanks for signing up for this event and I really hope you have fun playing around with the data provided! If you have any questions feel free to message me on discord @Beora (I might not respond right away depending on if I am at my pc / not busy but I will try my best)
 
-``````````````````````````````````````````````````````````````````````
+----------------------------------------------------------
 
 In this folder I included .pqt files for the following tables, all of which contain data for all games played by GG and C9 throughout the 2023 regular season and playoffs
 
